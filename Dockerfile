@@ -1,5 +1,6 @@
 # copyright 2017-2018 Regents of the University of California and the Broad Institute. All rights reserved.
-FROM genepattern/docker-python36 
+#FROM genepattern/docker-python36 
+FROM genepattern/docker-python36@sha256:1f1ba208e17e6fd8329d31b92ffc2f6c2778087b37ef6cd9071be09a4dbafb11
 
 MAINTAINER Ted Liefeld <jliefeld@cloud.ucsd.edu>
 
